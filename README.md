@@ -228,7 +228,7 @@ jupyter notebook VyapaarSetu_Analysis.ipynb
 
 ## 👤 Author
 
-**Pushpkar Roy**  
+**Pushpkar Roy**    
 Aspiring Data Analyst | SQL • Power BI • Excel • Python  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pushpkar-roy/)
