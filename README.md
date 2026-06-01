@@ -18,7 +18,7 @@
 | Detail | Info |       
 |---|---|     
 | 📍 HQ | Indore, Madhya Pradesh |         
-| 🗓️ Founded | January 2023 |
+| 🗓️ Founded | January 2023 |    
 | 🛍️ Categories | Electronics, Fashion, Beauty, Sports |
 | 🏙️ Cities Served | Indore, Bhopal, Jabalpur, Gwalior, Ujjain |
 | 📦 Total Transactions | 21,345 |
