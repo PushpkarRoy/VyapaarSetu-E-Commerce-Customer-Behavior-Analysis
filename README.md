@@ -15,7 +15,7 @@
      
 **VyapaarSetu Pvt. Ltd.** *(व्यापारसेतु)* is a regional D2C e-commerce startup headquartered in **Indore, Madhya Pradesh**. Founded in January 2023, VyapaarSetu bridges local MP customers with quality products across 4 categories, delivering to 5 major MP cities.
    
-| Detail | Info |       
+| Detail | Info |           
 |---|---|     
 | 📍 HQ | Indore, Madhya Pradesh |         
 | 🗓️ Founded | January 2023 |    
