@@ -21,7 +21,7 @@
 | 🗓️ Founded | January 2023 |    
 | 🛍️ Categories | Electronics, Fashion, Beauty, Sports |
 | 🏙️ Cities Served | Indore, Bhopal, Jabalpur, Gwalior, Ujjain |
-| 📦 Total Transactions | 21,345 |
+| 📦 Total Transactions | 21,345 |    
 | 👥 Unique Customers | 1,232 |
 
 ---
